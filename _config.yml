@@ -1,0 +1,28 @@
+name: Interpretación de Sueños Culiacán
+favicon: null
+layout_spectrum: 0.6207311577163637
+typography_spectrum: 0.8766732106450945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.40840953402221203
+  lightness: 0.72003521816805
+  saturation: 0.2845972974319011
+  rhythmicContrast: 0.38599597197026014
+purpose: []
