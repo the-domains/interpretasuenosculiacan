@@ -5,24 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Había una vez, una señora, Sofía, de unos 50 años que vivía con su esposo, un hombre un poco mayor que ella que había mantenido la fe y costumbre de los 70's a lo largo de los años, y su hijo, quien era un interesado por conocer las posibilidades infinitas de la mente, ayudar a otros, y a la vez, revelarse ante el sistema."
-datePublished: '2016-04-18T04:48:21.288Z'
-dateModified: '2016-04-18T04:48:17.262Z'
+description: 'No eran una familia ordinaria, aunque socialmente les gustaba aparentar estar en dicha situación. Pocas veces solían convivir juntos, la rutina les había llevado a tomar decisiones que poco a poco les iban alejando los unos de los otros.'
+datePublished: '2016-04-18T04:58:31.008Z'
+dateModified: '2016-04-18T04:58:11.268Z'
 title: El ladrón de los sueños
 author: []
+sourcePath: _posts/2016-04-18-el-ladron-de-los-suenos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-el-ladron-de-los-suenos.md
-published: true
 url: el-ladron-de-los-suenos/index.html
 _type: Article
 
 ---
 # El ladrón de los sueños
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49bfcbc0-1507-4932-9099-30b0d479ed9f.jpg)
 
 Había una vez, una señora, Sofía, de unos 50 años que vivía con su esposo, un hombre un poco mayor que ella que había mantenido la fe y costumbre de los 70's a lo largo de los años, y su hijo, quien era un interesado por conocer las posibilidades infinitas de la mente, ayudar a otros, y a la vez, revelarse ante el sistema.
 
