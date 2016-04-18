@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Interpretación de Sueños Culiacán]]></title>
         <description><![CDATA[Interpretación de Sueños Culiacán]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/interpretasuenosculiacan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 03:55:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 03:59:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/interpretasuenosculiacan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¿Cómo se interpreta un sueño? ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61c6ef45-e36e-40fa-8e01-1c8535671f61.jpg">]]></description>
-            <link>undefinedcomo-se-interpreta-un-sueno/index.html</link>
+            <link>https://thegrid.ai/interpretasuenosculiacan/como-se-interpreta-un-sueno/index.html</link>
             <guid isPermaLink="false">7c009d6e-d1c2-4622-8d23-162c8789658c</guid>
-            <pubDate>Mon, 18 Apr 2016 03:55:24 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 03:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
