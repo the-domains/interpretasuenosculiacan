@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T03:55:24.363Z'
-dateModified: '2016-04-18T03:54:52.432Z'
+datePublished: '2016-04-18T03:59:18.287Z'
+dateModified: '2016-04-18T03:58:36.054Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-como-se-interpreta-un-sueno.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-como-se-interpreta-un-sueno.md
-published: true
 url: como-se-interpreta-un-sueno/index.html
 _type: Article
 
