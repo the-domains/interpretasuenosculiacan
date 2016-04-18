@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'No eran una familia ordinaria, aunque socialmente les gustaba aparentar estar en dicha situación. Pocas veces solían convivir juntos, la rutina les había llevado a tomar decisiones que poco a poco les iban alejando los unos de los otros.'
-datePublished: '2016-04-18T05:12:00.125Z'
-dateModified: '2016-04-18T05:02:44.917Z'
+datePublished: '2016-04-18T05:14:18.307Z'
+dateModified: '2016-04-18T05:13:59.292Z'
 title: El ladrón de los sueños
 author: []
 sourcePath: _posts/2016-04-18-el-ladron-de-los-suenos.md
@@ -69,6 +69,14 @@ Esfera: "Pero en las tardes ya no tienes nada que hacer, ni tu familia, y ambos 
 
 En ese momento Sofía se desborda de llanto, empezó a tener una sensación de soledad que le llenó todo su cuerpo. Empezó a notar poco a poco que la Esfera no tenía malas intenciones, y sólo quería ayudarla. Quería ayudarla y quitarle su energía para lograr dormir, y no sentir toda la soledad que había estado guardando todos estos últimos meses tras la escasa convivencia con su esposo e hijo. 
 
-Basado en una historia real de un paciente. 
+Basado en una historia real de una persona que estaba pasando por una depresión inconsciente. Ella decidió creer que era una esfera la que le robaba la energía. Impactante para ella descubrir que era ella misma quien se provocaba el sueño.
+
+Tras este trabajo, Sofía logró darle seguimiento a su sueño, y hoy sigue en su lucha constante para hacerlo realidad. 
+
+Fin.
 
 Dr. Fernando Guzmán - Terapeuta de Sueños
+
+[www.facebook.com/interpretasuenosculiacan][0]
+
+[0]: www.facebook.com/interpretasuenosculiacan%0A%0Awww.facebook.com/interpretasuenosculiacan
