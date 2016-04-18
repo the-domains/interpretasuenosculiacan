@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Interpretación de Sueños Culiacán]]></title>
         <description><![CDATA[Interpretación de Sueños Culiacán]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/interpretasuenosculiacan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 04:48:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 04:58:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/interpretasuenosculiacan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[El ladrón de los sueños]]></title>
-            <description><![CDATA[<article><h1>El ladrón de los sueños</h1><p>Había una vez, una señora, Sofía, de unos 50 años que vivía con su esposo, un hombre un poco mayor que ella que había mantenido la fe y costumbre de los 70's a lo largo de los años, y su hijo, quien era un interesado por conocer las posibilidades infinitas de la mente, ayudar a otros, y a la vez, revelarse ante el sistema.</p></article>]]></description>
-            <link>undefinedel-ladron-de-los-suenos/index.html</link>
+            <description><![CDATA[<article><h1>El ladrón de los sueños</h1><p>No eran una familia ordinaria, aunque socialmente les gustaba aparentar estar en dicha situación. Pocas veces solían convivir juntos, la rutina les había llevado a tomar decisiones que poco a poco les iban alejando los unos de los otros.</p></article>]]></description>
+            <link>https://thegrid.ai/interpretasuenosculiacan/el-ladron-de-los-suenos/index.html</link>
             <guid isPermaLink="false">b19e15fa-15b8-4a2e-9701-19713a292025</guid>
-            <pubDate>Mon, 18 Apr 2016 04:48:21 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 04:58:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
